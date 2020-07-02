@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "http://mfarukkoc.github.io/react-paint-app/static/css/main.5f361e03.chunk.css",
-    "main.js": "http://mfarukkoc.github.io/react-paint-app/static/js/main.233711ae.chunk.js",
-    "main.js.map": "http://mfarukkoc.github.io/react-paint-app/static/js/main.233711ae.chunk.js.map",
+    "main.css": "http://mfarukkoc.github.io/react-paint-app/static/css/main.e44e7204.chunk.css",
+    "main.js": "http://mfarukkoc.github.io/react-paint-app/static/js/main.66783ec7.chunk.js",
+    "main.js.map": "http://mfarukkoc.github.io/react-paint-app/static/js/main.66783ec7.chunk.js.map",
     "runtime-main.js": "http://mfarukkoc.github.io/react-paint-app/static/js/runtime-main.0518977e.js",
     "runtime-main.js.map": "http://mfarukkoc.github.io/react-paint-app/static/js/runtime-main.0518977e.js.map",
-    "static/js/2.a66fbaa4.chunk.js": "http://mfarukkoc.github.io/react-paint-app/static/js/2.a66fbaa4.chunk.js",
-    "static/js/2.a66fbaa4.chunk.js.map": "http://mfarukkoc.github.io/react-paint-app/static/js/2.a66fbaa4.chunk.js.map",
+    "static/js/2.d2c3db62.chunk.js": "http://mfarukkoc.github.io/react-paint-app/static/js/2.d2c3db62.chunk.js",
+    "static/js/2.d2c3db62.chunk.js.map": "http://mfarukkoc.github.io/react-paint-app/static/js/2.d2c3db62.chunk.js.map",
     "index.html": "http://mfarukkoc.github.io/react-paint-app/index.html",
-    "precache-manifest.6281d2b178c0a0a88267ccd5d4806b54.js": "http://mfarukkoc.github.io/react-paint-app/precache-manifest.6281d2b178c0a0a88267ccd5d4806b54.js",
+    "precache-manifest.7b065bb229e59ffebaf095f10f01e844.js": "http://mfarukkoc.github.io/react-paint-app/precache-manifest.7b065bb229e59ffebaf095f10f01e844.js",
     "service-worker.js": "http://mfarukkoc.github.io/react-paint-app/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "http://mfarukkoc.github.io/react-paint-app/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.a66fbaa4.chunk.js.LICENSE.txt": "http://mfarukkoc.github.io/react-paint-app/static/js/2.a66fbaa4.chunk.js.LICENSE.txt",
+    "static/css/main.e44e7204.chunk.css.map": "http://mfarukkoc.github.io/react-paint-app/static/css/main.e44e7204.chunk.css.map",
+    "static/js/2.d2c3db62.chunk.js.LICENSE.txt": "http://mfarukkoc.github.io/react-paint-app/static/js/2.d2c3db62.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "http://mfarukkoc.github.io/react-paint-app/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.0518977e.js",
-    "static/js/2.a66fbaa4.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.233711ae.chunk.js"
+    "static/js/2.d2c3db62.chunk.js",
+    "static/css/main.e44e7204.chunk.css",
+    "static/js/main.66783ec7.chunk.js"
   ]
 }

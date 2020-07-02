@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "http://mfarukkoc.github.io/react-paint-app/precache-manifest.6281d2b178c0a0a88267ccd5d4806b54.js"
+  "http://mfarukkoc.github.io/react-paint-app/precache-manifest.7b065bb229e59ffebaf095f10f01e844.js"
 );
 
 self.addEventListener('message', (event) => {
