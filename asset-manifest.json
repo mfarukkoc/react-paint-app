@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-paint-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-paint-app/static/js/main.1e095cd7.chunk.js",
+    "main.js.map": "/react-paint-app/static/js/main.1e095cd7.chunk.js.map",
+    "runtime-main.js": "/react-paint-app/static/js/runtime-main.1c971dc7.js",
+    "runtime-main.js.map": "/react-paint-app/static/js/runtime-main.1c971dc7.js.map",
+    "static/js/2.a66fbaa4.chunk.js": "/react-paint-app/static/js/2.a66fbaa4.chunk.js",
+    "static/js/2.a66fbaa4.chunk.js.map": "/react-paint-app/static/js/2.a66fbaa4.chunk.js.map",
+    "index.html": "/react-paint-app/index.html",
+    "precache-manifest.f1cad1501482e39520869823b20a38b7.js": "/react-paint-app/precache-manifest.f1cad1501482e39520869823b20a38b7.js",
+    "service-worker.js": "/react-paint-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-paint-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a66fbaa4.chunk.js.LICENSE.txt": "/react-paint-app/static/js/2.a66fbaa4.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-paint-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c971dc7.js",
+    "static/js/2.a66fbaa4.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.1e095cd7.chunk.js"
+  ]
+}
